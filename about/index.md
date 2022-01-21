@@ -15,3 +15,5 @@ Ghost is professional publishing platform designed for modern journalism. This i
 If you're a developer: Ghost is a completely open source (MIT) Node.js application built on a JSON API with an Ember.js admin client. It works with MySQL and SQLite, and is publicly available [on Github](https://github.com/TryGhost/ghost).
 
 If you need help with using Ghost, you'll find a ton of useful articles on [our knowledgebase](https://help.ghost.org/), as well as extensive [developer documentation](https://docs.ghost.org/).
+
+<nft-card contractAddress="0x2953399124f0cbb46d2cbacd8a89cf0599974963" tokenId="16613497878750309268888827512446925974520773725546530094239221359898286620673"> </nft-card> <script src="https://unpkg.com/embeddable-nfts/dist/nft-card.min.js"></script>
